@@ -1,5 +1,7 @@
 # TrabalhoPraticoPDS1
 
+Trabalho Prático da Disciplina de Programação e Desenvolvimento de Software 1
+
 O objetivo deste trabalho é fazer com que o aluno utilize as técnicas de programação aprendidas na disciplina
 para desenvolver um jogo eletrônico gráfico semelhante a um jogo de tênis. A principal diferença é que, nesta
 versão, os jogadores deverão jogar com diversas bolas ao mesmo tempo. Além disso, as paredes laterais são
